@@ -1,2 +1,2 @@
-aliyun-oss
+aliyun-oss node.js client
 ==========
